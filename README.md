@@ -17,4 +17,11 @@ Here is a demo of the application functionality:
 
 ![A user clicks on slots on the color-coded calendar and edits the events.](./images/05-third-party-apis-homework-demo.gif)
 
+Progress
+
+Work day scheduler field created with current time display.
+
+![1672789373252](image/README/1672789373252.png)
+
+
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
