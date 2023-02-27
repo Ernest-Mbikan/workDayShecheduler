@@ -5,7 +5,7 @@ body {
 }
 
 textarea {
-  background: transparent;
+  background: #15c3438f;
   border: none;
   resize: none;
   color: #000000;
@@ -40,6 +40,12 @@ textarea {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
+
+  border: 1px inset #000000;
+  font-style: bold;
+  text-align: center;
+  padding-top: 10px;
+
 }
 
 .past {
@@ -69,3 +75,4 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+

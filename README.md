@@ -13,15 +13,12 @@ The app will:
 * Save the event in local storage when the save button is clicked in that timeblock.
 * Persist events between refreshes of a page
 
-Here is a demo of the application functionality:
+## Demo
+Below is a demo of the application functionality, and the image of the app.
 
 ![A user clicks on slots on the color-coded calendar and edits the events.](./images/05-third-party-apis-homework-demo.gif)
 
-Progress
 
-Work day scheduler field created with current time display.
+![1677462648899](image/README/1677462648899.png)
 
-![1672789373252](image/README/1672789373252.png)
-
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+Work Day Scheduler
